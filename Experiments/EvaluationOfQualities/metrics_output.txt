@@ -1,0 +1,8 @@
+SSIM Values:
+0.44112296732412726
+
+PSNR Values:
+29.789762977750037
+
+Mean Color Difference Values:
+107.70164611179132
